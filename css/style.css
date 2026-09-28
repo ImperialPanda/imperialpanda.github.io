@@ -83,13 +83,10 @@ h3 {
 a {
     color: rgba(0, 0, 0, 0.8);
     text-decoration: none;
-}
-main a {
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-    color: rgba(0, 0, 0, 0.8);
 }
-main a:hover,
-main a:focus {
+a:hover,
+a:focus {
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 p {
@@ -220,9 +217,6 @@ main > #studio-logos img {
 }
 .embed-responsive-16by9 {
     padding-bottom: 56.25%;
-}
-.external {
-    border-bottom: 0;
 }
 .external::after {
     color: rgba(0, 0, 0, 0.4);
