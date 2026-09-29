@@ -181,6 +181,9 @@ main > #images > div a:focus,
 main > #logo-icon > div a,
 main > #logo-icon > div a:hover,
 main > #logo-icon > div a:focus,
+main > #outro-details > #contact a,
+main > #outro-details > #contact a:hover,
+main > #outro-details > #contact a:focus,
 main > #studio-logos > div a,
 main > #studio-logos > div a:hover,
 main > #studio-logos > div a:focus {
@@ -194,6 +197,9 @@ main > #logo-icon img,
 main > #studio-logos img {
     display: inline-block;
     padding: 0 0.5rem 0.5rem;
+}
+main > #outro-details img {
+    display: inline-block;
 }
 .embed-responsive {
     position: relative;
