@@ -170,7 +170,7 @@ main > #intro-details > div:first-child p {
 }
 main > #images > div,
 main > #logo-icon > div,
-main > #studio-logos > div {
+main > #studio > div {
     margin: 0 auto;
     text-align: center;
 }
@@ -183,9 +183,9 @@ main > #logo-icon > div a:focus,
 main > #outro-details > #contact a,
 main > #outro-details > #contact a:hover,
 main > #outro-details > #contact a:focus,
-main > #studio-logos > div a,
-main > #studio-logos > div a:hover,
-main > #studio-logos > div a:focus {
+main > #studio > div a,
+main > #studio > div a:hover,
+main > #studio > div a:focus {
     border-bottom: 0;
 }
 main > #images img {
@@ -193,7 +193,7 @@ main > #images img {
     padding: 0 0.5rem 1rem;
 }
 main > #logo-icon img,
-main > #studio-logos img {
+main > #studio img {
     display: inline-block;
     padding: 0 0.5rem 0.5rem;
 }
